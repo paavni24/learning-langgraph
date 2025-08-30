@@ -1,0 +1,13 @@
+# Python environment folders
+venv/
+myenv/
+
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# OS-specific files
+.DS_Store
